@@ -1,0 +1,18 @@
+About project
+DMB - the project whose main goal is to create a general fund to support and develop startups related to mathematics / mathematical analysis / cryptography, as well as related areas.
+
+Features:
+1) True like bitcoin intrinsic decentralization
+2) No premine/masternodes/bounty/ICO
+3) The possibility of mining coins from the wallet
+4) Quick access to trading markets
+5) Low transfer fees / High transaction speed
+
+Specification
+Coin: DMB
+Ticker: DMB
+Block Time Target: 120 SEC (2 MIN)
+P2P PORT: 41003
+RPC PORT: 51002
+Algo: SHA-256 (ASIC)
+Block reward: 25.000 
